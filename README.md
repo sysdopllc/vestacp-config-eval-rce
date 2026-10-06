@@ -25,7 +25,7 @@ still running it in production (widely shipped in VPS templates).
 
 ## Reporter
 
-**Bryan Ramirez — SYSDOP LLC** · bryan@sysdop.com
+**Bryan Ramirez — SYSDOP LLC** · security@sysdop.com
 
 Discovered during a defensive security audit of production hosting
 infrastructure, August 2026. Disclosed October 2026.
